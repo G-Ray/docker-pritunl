@@ -1,0 +1,4 @@
+#!/usr/bin/with-contenv bash
+
+echo "Starting pritunl"
+exec /usr/bin/pritunl start
